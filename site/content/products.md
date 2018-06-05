@@ -54,8 +54,8 @@ pricing:
     - description: Perfect for the small companies that are less than 100 Guards.
       items:
         - 3 hours of support per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Sites Module
+        - Guard Module
       plan: Small
       price: '199'
     - description: 'Great for medium sized companies between 100-500 Guards'
