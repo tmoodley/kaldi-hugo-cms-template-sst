@@ -9,16 +9,16 @@ description: >-
   
 intro:
   blurbs:
-    - image: /img/products/software.jpg
+    - image: /img/products/hr-software.jpg
       text: >
        More product for the price: GuardForce’s payroll/human resources software and convenient HR/payroll service solution deliver more  “out-of-the-box” HR and payroll functionality than any other vendor in the market today.
-    - image: /img/products/software.jpg
+    - image: /img/products/payroll-software.jpg
       text: >
         Most cost-effective implementation: GuardForce allows you to begin experiencing hr and payroll software benefits fast, with the quickest time to live payroll and the ability to implement HR/payroll functionality in stages to address your most critical needs first—for a quicker return on your investment. 
     - image: /img/products/software.jpg
       text: >
         Easily integrates with your ERP: GuardForce delivers unique Enterprise Resource Planning integration that provide the ability to interface your payroll and hr software painlessly. 
-    - image: /img/products/software.jpg
+    - image: /img/products/web-based.png
       text: >
         100% Web-accessible solution: WerkFors Payroll and HR Software serves as your company’s workforce portal—the first stop for executives, HR/Payroll staff managers, and employees for company related activities, with access to human resources, pay and benefits information that draws employees in and with access to other value-added offerings that show the total value of employment at your organization. 
   heading: WerkFors Payroll
@@ -38,10 +38,10 @@ main:
     alt: Security Guard Software
     image: /img/products/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Andy
     quote: >-
       The first time I used GuardForce, I couldn’t it could do everything it could do.
-  - author: Philipp Trommler
+  - author: Stuart
     quote: >-
       GuardForce is the software to manage your Security Guard Company. 
 full_image: /img/products/products-full-width.jpg
