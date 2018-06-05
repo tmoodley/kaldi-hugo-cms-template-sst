@@ -1,56 +1,33 @@
 ---
-title: Our Coffee
+title: Our Software
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
+heading: SECURITY GUARD HR/PAYROLL SOFTWARE PRODUCTS
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  GuardForce offers the most comprehensive and cost-effective Security Guard HRMS/Payroll Software on the market. 
+  
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+       More product for the price: GuardForce’s payroll/human resources software and convenient HR/payroll service solution deliver more  “out-of-the-box” HR and payroll functionality than any other vendor in the market today.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Most cost-effective implementation: GuardForce allows you to begin experiencing hr and payroll software benefits fast, with the quickest time to live payroll and the ability to implement HR/payroll functionality in stages to address your most critical needs first—for a quicker return on your investment. 
     - image: /img/illustrations/tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Easily integrates with your ERP: GuardForce delivers unique Enterprise Resource Planning integration that provide the ability to interface your payroll and hr software painlessly. 
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        100% Web-accessible solution: WerkFors Payroll and HR Software serves as your company’s workforce portal—the first stop for executives, HR/Payroll staff managers, and employees for company related activities, with access to human resources, pay and benefits information that draws employees in and with access to other value-added offerings that show the total value of employment at your organization. 
+  heading: WerkFors Payroll
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    WerkFors is the most powerful and flexible Payroll processing engine on the market. It delivers high performance, accuracy, and ease in getting paychecks out. Not only that, with prepackaged and custom reporting and online analytics, WerkFors's Payroll software empowers Payroll and finance specialists to find, analyze, and output the Payroll information they need with very little effort and no extra costs. 
 main:
-  heading: Great coffee with no compromises
+  heading: Pay-related calculations
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    WerkFors Payroll provides robust earnings, deductions, benefits and workers' compensation calculations defined by groups. There is no need for side Payroll calculations or additional programming. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
