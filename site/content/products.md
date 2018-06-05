@@ -29,51 +29,48 @@ main:
   description: >
     WerkFors Payroll provides robust earnings, deductions, benefits and workers' compensation calculations defined by groups. There is no need for side Payroll calculations or additional programming. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: GuardForce Security Guard Software
     image: /img/products/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: WerkFors Payroll Software
     image: /img/products/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Security Guard Software
     image: /img/products/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      The first time I used GuardForce, I couldn’t it could do everything it could do.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      GuardForce is the software to manage your Security Guard Company. 
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to manage your security guard company. Choose one of our
+    monthly subscription plans. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the small companies that are less than 100 Guards.
       items:
-        - 3 lbs of coffee per month
+        - 3 hours of support per month
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      price: '199'
+    - description: 'Great for medium sized companies between 100-500 Guards'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - 12 Hours of support per month
+        - HR/Asset Management
+        - Up to 500 Guards
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: '499'
+    - description: Enterprise Plans, companies with over 500 Guards.
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - Custom Payroll Rules
+        - Unlimited Guards
+      plan: Enterprise
       price: '?'
 ---
 
