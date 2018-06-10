@@ -1,5 +1,5 @@
 +++
-title = "Customers"
+title = "Values"
 type = "values"
 page="/customers.html"
 +++
