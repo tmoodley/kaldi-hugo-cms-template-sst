@@ -1,1 +1,19 @@
 
+{{ partial "head" . }}
+{{ partial "nav" . }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/about/jumbotron.jpg" "title" "Values") }}
+
+<div class="mw7 center ph3 pt4">
+
+  {{ partial "media-block" (dict "heading" "Security Guard Management" "text" "Southernsoft Technologies serves approximately 10 customers representing more than 30,000 employees, providing them highly flexible, easy-to-use HR and payroll solutions." "imageUrl" "/img/about/shade-grown.jpg") }}
+
+  {{ partial "media-block-reverse" (dict "heading" Solutions that work" "text" "Only SouthernSoft Technologies can provide a comprehensive solution that addresses all the complexities of the workforce. Every SouthernSoft Technologies application is built using the latest technology, established standards, and industry-leading platforms. And all of our applications are backed by vast global resources and a world-class services portfolio." "imageUrl" "/img/about/single-origin.jpg") }}
+
+  {{ partial "media-block" (dict "heading" "Experts you can count on" "text" "You get industry-leading customer service from service representatives with an average of more than 10 years' experience in the security guard industry, online chat support for meeting high-quality support standards, and a Certified Payroll Professional.  You get the fastest implementation and the quickest ROI, and GuardForce is more cost effective because you will see results faster than any other system." "imageUrl" "/img/about/sustainable-farming.jpg") }}
+
+  {{ partial "media-block-reverse" (dict "heading" "Direct sourcing" "text" "With Southernsoft Technologies, you get the greatest total value when you consider everything. More easy-to-use HR/payroll functionality. More effective HR and payroll processes. A unique company culture of happy employees. A commitment to our customers and our community. It all adds up to a more positive impact on your business objectives." "imageUrl" "/img/about/direct-sourcing.jpg") }}
+
+  {{ partial "media-block" (dict "heading" "Payroll Solutions" "text" "HR/payroll functionality for the price. Everything you need is bundled together—HR, benefits, payroll, manager self-service, employee self-service, employee administration, plus the most extensive library of integrated HR/payroll reporting and business intelligence tools available today. " "imageUrl" "/img/about/reinvest-profits.jpg") }}
+</div>
+
+{{ partial "footer" . }}
