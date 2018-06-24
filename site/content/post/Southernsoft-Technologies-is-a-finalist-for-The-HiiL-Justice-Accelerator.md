@@ -3,7 +3,7 @@ title: Southernsoft Technologies is a finalist for The HiiL Justice Accelerator
 date: 2017-01-04T15:04:10.000Z
 description: >-
  Southernsoft Technologies is a finalist for The HiiL Justice Accelerator 
-image: /img/blog/chemex.jpg
+image: /img/blog/police-force.jpg
 --- 
 
 ## Southernsoft Technologies is a finalist for The HiiL Justice Accelerator 
